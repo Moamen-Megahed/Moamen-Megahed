@@ -2,9 +2,8 @@
 
 ## About Me
 
-**Front-End Developer (React)**
+<span style="background-color: #f0f0f0; padding: 5px;">**Front-End Developer (React)**</span>
 
-![Background](https://via.placeholder.com/1200x200/282C34/FFFFFF?text=Front-End+Developer+(React))
 
 I'm a passionate web developer with expertise in HTML, CSS, and JavaScript. Currently focusing on building responsive and interactive web applications using React.
 ## Languages and Tools
