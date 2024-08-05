@@ -1,6 +1,11 @@
 # Hi there, I'm Moamen Megahed 👋
 
 ## About Me
+
+**Front-End Developer (React)**
+
+![Background](https://via.placeholder.com/1200x200/282C34/FFFFFF?text=Front-End+Developer+(React))
+
 I'm a passionate web developer with expertise in HTML, CSS, and JavaScript. Currently focusing on building responsive and interactive web applications using React.
 ## Languages and Tools
 
